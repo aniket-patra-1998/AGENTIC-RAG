@@ -105,6 +105,7 @@ corrective_rag/
 ## Workflow Diagram
 
 ![Corrective RAG Workflow](assets/corrective_rag_workflow.png)
+![Corrective RAG detailed Workflow](assets/rag.png)
 
 ## Dependencies
 - LangChain
